@@ -1,0 +1,20 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "judul": "Konsep & Implementasi Pemrograman Laravel 7",
+      "penulis": "Lukmanul Hakim",
+      "harga": "82.000",
+      "image": "https://i.postimg.cc/c1TTLy2r/4.jpg",
+      "sinopsis": "Buku ini akan membantu Anda untuk mempelajari Laravel 7 dengan cara mudah. Disajikan dalam bentuk Langkah Demi Langkah. Setiap materi disertai Studi Kasus. Bahkan, beberapa materi tidak ada dalam dokumentasi resmi Laravel."
+    },
+    {
+      "id": 2,
+      "judul": "Jalan Pintas Menjadi Master ReactJS",
+      "penulis": "Lukmanul Hakim",
+      "harga": "90.000",
+      "image": "https://i.postimg.cc/52zwvZ75/5.jpg",
+      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
+    }
+  ]
+}
